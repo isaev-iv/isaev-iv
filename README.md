@@ -1,19 +1,31 @@
-# Hi there, I'm Liam 👋
+## 📊 GitHub Stats
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Isaev3-IV&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev3-IV&layout=compact" />
+<img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev3-IV&layout=compact" />
+  
+#
 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+## 🛠️ Technologies & Tools
 
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
+![MUI](https://img.shields.io/badge/-MUI-090909?style=for-the-badge&logo=MUI)
 
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+#
 
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+## 🗂 Projects
 
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+📍 <a href="https://isaev3-iv.github.io/web-app-to-pass-the-test">Web App для проведения тестирования</a>
 
-<img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+#
 
-<img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+## 🤝 Connect with me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ligatom)
+
+#
