@@ -18,10 +18,10 @@
 
 ### 🗂 Projects
 
-📍 <a href="https://isaev3-iv.github.io/web-app-to-pass-the-test">Web App для проведения тестирования</a>
+📍 <a href="https://isaev-iv.github.io/web-app-to-pass-the-test">Web App для проведения тестирования</a>
 
 ###
-📍 <a href="https://isaev3-iv.github.io/githubapi-show-stats/">Web App для поиска информации с помощью GitHub API</a>
+📍 <a href="https://isaev-iv.github.io/githubapi-show-stats/">Web App для поиска информации с помощью GitHub API</a>
 
 #
 
