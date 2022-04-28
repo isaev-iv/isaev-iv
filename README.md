@@ -1,6 +1,6 @@
 ### 📊 GitHub Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Isaev3-IV&show_icons=true&theme=dracula" />
-<img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev3-IV&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=isaev-iv&show_icons=true&theme=dracula" />
+<img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaev-iv&layout=compact" />
   
 #
 
