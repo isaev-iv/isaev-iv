@@ -1,7 +1,10 @@
 ### 📊 GitHub Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=isaev-iv&show_icons=true&theme=dracula" />
-<img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaev-iv&layout=compact" />
-  
+<div>
+<a href="https://github.com/isaev-iv">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaev-iv&show_icons=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaev-iv&layout=compact&langs_count=16&theme=dracula" />
+</div>
+
 #
 
 ### 🛠️ Technologies & Tools
@@ -26,7 +29,6 @@
 #
 
 ### 🤝 Connect with me
-
+<img width="200em" src="https://user-images.githubusercontent.com/96011603/165913979-bfc37817-cfc3-4994-8bd4-6e5477feca7e.gif"/>
+  
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ligatom)
-
-#
