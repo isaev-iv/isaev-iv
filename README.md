@@ -20,7 +20,9 @@
 #
 
 ### 🗂 Projects
-
+📍 <a href="https://isaev-iv.github.io/password-generator">Web App для мгновенного создания безопасного пароля</a>
+  
+ ###
 📍 <a href="https://isaev-iv.github.io/web-app-to-pass-the-test">Web App для проведения тестирования</a>
 
 ###
